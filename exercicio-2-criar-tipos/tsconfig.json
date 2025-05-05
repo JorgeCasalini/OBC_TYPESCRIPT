@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "outDir": "public/dist",
+        "target": "ES2015",
+        "lib": ["es2015", "dom"]
+    }
+}
