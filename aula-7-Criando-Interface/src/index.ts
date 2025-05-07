@@ -61,7 +61,7 @@ let earth: Planet = {
     createSatellite: (name: string) => {
         // ...
     },
-    orbitedStar: sun
+    orbitedStar: sol
 }
 // Classes podem implementar interfaces
 // Nesse caso ela cria o que chamamos de contrato,
